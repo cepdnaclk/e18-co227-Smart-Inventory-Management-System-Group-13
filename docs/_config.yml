@@ -2,7 +2,7 @@
 # Please refer above link to know the available configurations
 
 title: ""
-remote_theme: cepdnaclk/eYY-project-theme
+# remote_theme: cepdnaclk/eYY-project-theme
 description: ""
 markdown: kramdown
 
@@ -11,3 +11,12 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []

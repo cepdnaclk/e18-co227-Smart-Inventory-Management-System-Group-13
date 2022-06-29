@@ -1,0 +1,196 @@
+---
+layout: compress
+permalink: index.html
+
+# Please update this with your repository name and title
+repository-name: e18-co227-Smart-Inventory-Management-System-Group-A
+title: Smart Inventory Management System - Item Locator
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+  <link href="assets/images/crest.png" rel="icon" />
+  <title>Item Locator - Smart Inventory Management System</title>
+  <meta name="description" content="Your ThemeForest item Name and description">
+  <meta name="author" content="harnishdesign.net">
+
+  <!-- Stylesheet
+============================== -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap/css/bootstrap.min.css" />
+  <!-- Font Awesome Icon -->
+  <link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css" />
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" type="text/css" href="assets/vendor/magnific-popup/magnific-popup.min.css" />
+  <!-- Highlight Syntax -->
+  <link rel="stylesheet" type="text/css" href="assets/vendor/highlight.js/styles/github.css" />
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" type="text/css" href="assets/css/stylesheet.css" />
+
+  <!-- Here goes your Colors Css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/color-blue.css" />
+</head>
+
+<body data-spy="scroll" data-target=".idocs-navigation" data-offset="125">
+
+  <!-- Preloader -->
+  <div class="preloader">
+    <div class="lds-ellipsis">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+  <!-- Preloader End -->
+
+  <!-- Document Wrapper   
+=============================== -->
+  <div id="main-wrapper">
+
+    <!-- Header
+  ============================ -->
+    <header id="header" class="sticky-top">
+      <!-- Navbar -->
+      <nav class="primary-menu navbar navbar-expand-lg navbar-dropdown-dark">
+        <div class="container-fluid">
+          <!-- Sidebar Toggler -->
+          <button id="sidebarCollapse" class="navbar-toggler d-block d-md-none" type="button"><span></span><span class="w-75"></span><span class="w-50"></span></button>
+
+          <!-- Logo -->
+          <a class="logo ml-md-3" href="index.html" title="iDocs Template"> <img src="assets/images/crest.png" alt="iDocs Template" style="width:50px;height:50px;" /> </a>
+          <span class="text-5 ml-2">Smart Inventory System - Item Locator</span>
+          <!-- Logo End -->
+
+          <!-- Navbar Toggler -->
+          <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#header-nav"><span></span><span></span><span></span></button>
+
+          <div id="header-nav" class="collapse navbar-collapse justify-content-end">
+
+          </div>
+          <ul class="social-icons social-icons-sm ml-lg-2 mr-2">
+            <li class="social-icons-github"><a data-toggle="tooltip" href="https://github.com/cepdnaclk/smart-inventory-management-system" target="_blank" title="" data-original-title="github"><i class="fab fa-github"></i></a></li>
+
+          </ul>
+        </div>
+      </nav>
+      <!-- Navbar End -->
+  </header>
+  <!-- Header End -->
+
+      <!-- Content
+  ============================ -->
+      <div id="content" role="main">
+
+        <!-- Sidebar Navigation
+	============================ -->
+        <div class="idocs-navigation bg-light">
+          <ul class="nav flex-column ">
+            <li class="nav-item"><a class="nav-link active" href="#introduction">Introduction</a>
+
+            </li>
+            <li class="nav-item"><a class="nav-link" href="#proposed_solution">Proposed Solution</a>
+
+            </li>
+            <li class="nav-item"><a class="nav-link" href="#tech_stack">Technology Stack</a>
+
+            </li>
+            <li class="nav-item"><a class="nav-link" href="#high_level_plan">High level plan</a>
+
+          </ul>
+        </div>
+
+        <!-- Docs Content
+	============================ -->
+        <div class="idocs-content">
+          <div class="container">
+            <!-- <h2>Smart Inventory Management System - Item Locator</h2> -->
+
+            <!-- Getting Started
+		============================ -->
+            <section id="introduction">
+              <!-- <h1>Documentation</h1> -->
+              <h2>Introduction</h2>
+              <p> The Makerspace Lab of Computer engineering of the University of Peradeniya has many items and equipments that are needed for projects done at the lab. As the item count grows it will be hard to keep track of them. Hence, the project <a href="https://github.com/cepdnaclk/smart-inventory-management-system" target="_blank">smart-inventory-management-system</a> was proposed to solve this problem. The goal of our project is to add location service system to the existing project.</p>
+              <hr>
+
+
+              <!-- Installation
+		============================ -->
+              <hr class="divider">
+
+              <section id="proposed_solution">
+                <h2>Proposed solution</h2>
+                  <ul>
+                    <li>Add location data to the existing item pages</li>
+                    <li>Create new page for search by item name</li>
+                    <li>Create new page for search by location name</li>
+                  </ul>
+                 
+
+              </section>
+
+              <hr class="divider">
+
+              <!-- HTML Structure
+		============================ -->
+              <section id="tech_stack">
+                <h2>Technology Stack</h2>
+                <p>The following technologies were used to create this project:</p>
+                <ul>
+                  <li>PHP (Laravel)</li>
+                  <li>MySQL (SQlite for development)</li>
+                  <li>HTML5</li>
+                  <li>CSS3</li>
+                  <li>Bootstrap 4</li>
+                  <li>VueJS</li>
+                </ul>
+                
+              </section>
+
+              <hr class="divider">
+
+              <!-- Sass
+		============================ -->
+              <section id="high_level_plan">
+                <h2>High Level Plan</h2>
+                <ul>
+                  <li>Create new tables in the database to store location data</li>
+                  <li>Create seeders to populate the tables</li>
+                  <li>Create models to input and output data from the tables</li>
+                  <li>Edit the controllers to get the corresponding data from tables</li>
+                  <li>Edit the exisiting views to display information</li>
+                  <li>Create search view and controllers</li>
+                  <li>Create search by location views and controllers</li>
+                  <li>Write tests for newly implemented funtionality</li>
+                </ul>
+              </section>
+
+
+    
+  </div>
+  <!-- Document Wrapper end -->
+
+  <!-- Back To Top -->
+  <a id="back-to-top" data-toggle="tooltip" title="Back to Top" href="javascript:void(0)"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript
+============================ -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- Highlight JS -->
+  <script src="assets/vendor/highlight.js/highlight.min.js"></script>
+  <!-- Easing -->
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <!-- Magnific Popup -->
+  <script src="assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <!-- Custom Script -->
+  <script src="assets/js/theme.js"></script>
+</body>
+
+</html>
