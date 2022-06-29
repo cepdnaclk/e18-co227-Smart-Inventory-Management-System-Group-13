@@ -1,7 +1,9 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Location Service - Smart Inventory Management System
 ___
 
-## Please refer the instructions in below URL:
+## Team
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+- E/18/098 Fernando K.A.I.
+- E/18/100 Fernando K.N.A.
+- E/18/155 Jayasundara J.W.K.R.B.
