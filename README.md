@@ -5,14 +5,14 @@
 # Smart Inventory Management System - Item Locator
 
 ---
-![Logo](./images/pic1.png)
+![Logo](./docs/images/pic1.png)
 
 ## Team
 -  E/18/098, Fernando K.A.I., [e18098@eng.pdn.ac.lk](mailto:e18098@eng.pdn.ac.lk)
 -  E/18/100, Fernando K.N.A, [e18100@eng.pdn.ac.lk](mailto:e18100@eng.pdn.ac.lk)
 -  E/18/155, Jayasundara J.W.K.R.B., [e18155@eng.pdn.ac.lk](mailto:e18155@eng.pdn.ac.lk)
 
-![Team members](./images/pic2.png)
+![Team members](./docs/images/pic2.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
