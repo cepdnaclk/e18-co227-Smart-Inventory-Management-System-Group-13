@@ -14,28 +14,7 @@
 
 ![Team members](./docs/images/pic2.png)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
-3. [Links](#links)
-
----
-
-## Introduction
-
-This project 
-
-## Other Sub Topics
-
-.....
-
-## Links
-
-- [Project Repository](https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-A){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A){:target="_blank"}
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+Please visit [our website](https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A/) for more information
 
 
-[//]: # (Please refer this to learn more about Markdown syntax)
-[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
